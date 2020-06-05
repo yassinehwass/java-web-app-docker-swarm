@@ -14,7 +14,7 @@ public class HelloWorldService {
 
 		logger.debug("getDesc() is executed!");
 
-		return "Yassine Hwass";
+		return "Yassine Hwass Esprit Project Pushing Code Test";
 
 	}
 
